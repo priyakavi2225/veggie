@@ -1,0 +1,6 @@
+{
+  "name": "VeggieHands",
+  "description": "Urban Company-style on-demand vegetable & fruit cutting and kitchen prep marketplace.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
